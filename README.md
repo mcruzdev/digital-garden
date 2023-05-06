@@ -6,4 +6,8 @@ What is "digital gardening"?
 
 # Java
 
-# Kubernetes
+## Release Process
+
+- [Como funciona o processo de entrega do Java?
+](java/release-process/README.md)
+
