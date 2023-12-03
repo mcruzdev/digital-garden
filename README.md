@@ -8,6 +8,6 @@ What is "digital gardening"?
 
 ## Release Process
 
-- [Como funciona o processo de entrega do Java?
+- [How Java releases works?
 ](java/release-process/README.md)
 
